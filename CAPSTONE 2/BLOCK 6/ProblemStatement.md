@@ -34,7 +34,7 @@
     - Department Name
     - Number of enrollments for his courses
 
-## 3. Create StudentList View
+## 4. Create StudentList View
 
 - Create a view named "StudentList"
 - View should display a list of courses with the following columns:
